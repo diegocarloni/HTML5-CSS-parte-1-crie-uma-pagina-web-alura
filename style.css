@@ -1,0 +1,12 @@
+body {
+    background-color: #CCCCCC /*hexadecimal*/
+}
+
+p {
+    text-align: center
+}
+
+em strong {
+    color: #FF0000 /* ou red, ou rgb(255,0,0) */
+}
+
