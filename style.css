@@ -1,9 +1,14 @@
 body {
-    background-color: #CCCCCC /*hexadecimal*/
+    
 }
 
 #banner {
     width: 100%;
+}
+
+.principal {
+    background-color: #CCCCCC; /*hexadecimal*/
+    padding: 30px;
 }
 
 h1 {
@@ -22,3 +27,26 @@ em strong {
     color: #FF0000 /* ou red, ou rgb(255,0,0) */
 }
 
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
